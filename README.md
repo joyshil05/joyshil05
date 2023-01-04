@@ -5,7 +5,7 @@
 
 I am a student of Information and Communication Engineering.Now i am prepared myself as web developer.
 
-Skills: HTML / CSS
+Skills: HTML / CSS / Python
 
 - 🌱 I’m currently learning web devoloping 
 - 📫 How to reach me: through social media 
