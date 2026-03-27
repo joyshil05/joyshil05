@@ -1,26 +1,69 @@
+<h1 align="center">Hi 👋, I'm Joy</h1>
 
-### Hi there 👋, I am Joy
-#### I am a student of Information and Communication Engineering
+<h3 align="center">Tech Enthusiast • Product Analyst Mindset • System Thinker</h3>
 
+---
 
+## 🚀 About Me
 
+I’m not just someone who writes code.  
+I’m someone who understands how technology solves real problems.
 
-Skills: HTML / CSS / Python
+I focus on:
+- Understanding **products, users, and systems**
+- Breaking down how things work behind the scenes
+- Connecting **technology with business impact**
 
-- 🌱 I’m currently learning web devoloping 
-- 📫 How to reach me: through social media 
+I see myself as a **Tech-driven Product Analyst** — someone who can bridge the gap between idea and execution.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joyshil05)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JS Jitu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_jitu_vitu_/)  
+## 🧠 What I Do
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+- Analyze how digital products work  
+- Think in terms of **user experience & product flow**  
+- Explore systems, tools, and real-world applications  
+- Learn continuously and apply practically  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyshil05&show_icons=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyshil05)  
+## ⚙️ Technical Foundation
 
-![GitHub metrics](https://metrics.lecoq.io/joyshil05)  
+- HTML / CSS  
+- Python  
+- Basic Web Development  
+- Problem Solving  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joyshil05)  
+---
 
-![Profile views](https://gpvc.arturio.dev/joyshil05)  
+## 🎯 Current Focus
+
+- Product Thinking & Analysis  
+- Understanding Real-world Tech Systems  
+- Improving Decision-making with Data  
+- Building a strong foundation in Tech + Business  
+
+---
+
+## 🌐 Connect With Me
+
+- Facebook: https://www.facebook.com/JS_Jitu  
+
+---
+
+## 📊 GitHub Activity
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+<!-- Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+## 💡 Philosophy
+
+> Technology is not about tools.  
+> It’s about solving problems, creating value, and building systems that matter.
+
+---
