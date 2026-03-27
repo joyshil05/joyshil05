@@ -6,14 +6,11 @@
 
 ## 🧠 About Me
 
-I work with technology beyond just coding.  
-I focus on understanding how products are built, how users interact, and how systems scale.
+I don’t just work with code. I focus on understanding how technology solves real problems.
 
-🔹 I analyze products  
-🔹 I think in user flows & business impact  
-🔹 I connect technology with real-world problems  
+I analyze products, study user behavior, and think about how systems scale in real-world environments.
 
-> Not just a developer — a **Tech-minded Product Analyst**
+> I am not just a developer — I am a tech guy who understands systems and wants to grow as a Product Analyst.
 
 ---
 
@@ -22,6 +19,10 @@ I focus on understanding how products are built, how users interact, and how sys
 <p align="left">
 <a href="https://www.facebook.com/JS_Jitu" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joy-shil0599" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -47,7 +48,7 @@ I focus on understanding how products are built, how users interact, and how sys
 
 - Product Analysis & Strategy  
 - Understanding User Behavior  
-- System Design Thinking  
+- System Thinking  
 - Tech + Business Integration  
 
 ---
@@ -55,29 +56,29 @@ I focus on understanding how products are built, how users interact, and how sys
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joyshil05&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=joyshil05&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyshil05&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🎯 Current Goal
 
-To grow as a **Product Analyst who understands technology deeply**  
-and can build solutions that actually create impact.
+To become a **Product Analyst who deeply understands technology**  
+and builds solutions that create real impact.
 
 ---
 
 ## 💡 Philosophy
 
-> Tech is not about writing code.  
+> Technology is not about writing code.  
 > It’s about solving problems, understanding users, and building systems that scale.
 
 ---
