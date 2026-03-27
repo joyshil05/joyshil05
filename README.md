@@ -1,69 +1,83 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
-<h3 align="center">Tech Enthusiast • Product Analyst Mindset • System Thinker</h3>
+<h3 align="center">Tech Enthusiast • Product Analyst • System Thinker</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m not just someone who writes code.  
-I’m someone who understands how technology solves real problems.
+I work with technology beyond just coding.  
+I focus on understanding how products are built, how users interact, and how systems scale.
 
-I focus on:
-- Understanding **products, users, and systems**
-- Breaking down how things work behind the scenes
-- Connecting **technology with business impact**
+🔹 I analyze products  
+🔹 I think in user flows & business impact  
+🔹 I connect technology with real-world problems  
 
-I see myself as a **Tech-driven Product Analyst** — someone who can bridge the gap between idea and execution.
-
----
-
-## 🧠 What I Do
-
-- Analyze how digital products work  
-- Think in terms of **user experience & product flow**  
-- Explore systems, tools, and real-world applications  
-- Learn continuously and apply practically  
+> Not just a developer — a **Tech-minded Product Analyst**
 
 ---
 
-## ⚙️ Technical Foundation
+## 🌐 Socials
 
-- HTML / CSS  
-- Python  
-- Basic Web Development  
-- Problem Solving  
-
----
-
-## 🎯 Current Focus
-
-- Product Thinking & Analysis  
-- Understanding Real-world Tech Systems  
-- Improving Decision-making with Data  
-- Building a strong foundation in Tech + Business  
+<p align="left">
+<a href="https://www.facebook.com/JS_Jitu" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Tech Stack
 
-- Facebook: https://www.facebook.com/JS_Jitu  
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Product%20Thinking-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Analysis-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User%20Experience-FF9800?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 What I Focus On
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- Product Analysis & Strategy  
+- Understanding User Behavior  
+- System Design Thinking  
+- Tech + Business Integration  
 
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 Current Goal
+
+To grow as a **Product Analyst who understands technology deeply**  
+and can build solutions that actually create impact.
 
 ---
 
 ## 💡 Philosophy
 
-> Technology is not about tools.  
-> It’s about solving problems, creating value, and building systems that matter.
+> Tech is not about writing code.  
+> It’s about solving problems, understanding users, and building systems that scale.
 
 ---
